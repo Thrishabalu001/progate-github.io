@@ -1,0 +1,10 @@
+body{
+	color:FF0000;
+	background-color:green;
+}
+p{
+	color: FF0000;
+}
+p.normal{
+	color: FFF000;
+}
